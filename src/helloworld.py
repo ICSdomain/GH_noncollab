@@ -1,4 +1,4 @@
-def maint():
+def main():
     print("Hello World!")
 
 main()
